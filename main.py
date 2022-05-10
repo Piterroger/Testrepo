@@ -1,16 +1,33 @@
 number_1 = 3
 number_2 = 4
-suma = number_1 + number_2
-print(suma)
+suma1 = number_1 + number_2
+print(suma1)
 
-roznica = number_1 - number_2
-print(roznica)
+roznica1 = number_1 - number_2
+print(roznica1)
 
-mnozenie = number_1 * number_2
-print(mnozenie)
+mnozenie1 = number_1 * number_2
+print(mnozenie1)
 
-dzielenie = number_1 / number_2
-print(dzielenie)
+dzielenie1 = number_1 / number_2
+print(dzielenie1)
+
+number_3 = 0.1
+number_4 = 8.2
+
+suma2 = number_3 + number_4
+print(suma2)
+
+roznica2 = number_3 - number_4
+print(roznica2)
+
+mnozenie2 = number_3 * number_4
+print(mnozenie2)
+
+dzielenie2 = number_3 / number_4
+print(dzielenie2)
+
+
 
 
 
