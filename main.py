@@ -1,91 +1,72 @@
 number_1 = 3
 number_2 = 4
-suma1 = number_1 + number_2
-print(suma1)
+sum1 = number_1 + number_2
+print(sum1)
 
-roznica1 = number_1 - number_2
-print(roznica1)
+substraction1 = number_1 - number_2
+print(substraction1)
 
-mnozenie1 = number_1 * number_2
-print(mnozenie1)
+multiplication1 = number_1 * number_2
+print(multiplication1)
 
-dzielenie1 = number_1 / number_2
-print(dzielenie1)
+divison1 = number_1 / number_2
+print(divison1)
 
 
 
 number_3 = 0.1
 number_4 = 8.2
 
-suma2 = number_3 + number_4
-print(suma2)
+sum2 = number_3 + number_4
+print(sum2)
 
-roznica2 = number_3 - number_4
-print(roznica2)
+substraction2 = number_3 - number_4
+print(substraction2)
 
-mnozenie2 = number_3 * number_4
-print(mnozenie2)
+multiplication2 = number_3 * number_4
+print(multiplication2)
 
-dzielenie2 = number_3 / number_4
-print(dzielenie2)
-
-
-
-liczba1 = 10
-
-liczba2 = 0
-
-dzielenieprzezzero = liczba1 / liczba2
-
-print(dzielenieprzezzero)
-
-# wykonałem dzielenie przez zero, takie działanie zawsze daje wynik 0
+divison2 = number_3 / number_4
+print(division)
 
 
 
+number5 = 10
 
-number5 = 2
+number6 = 0
 
-number6 = 5
+#result = number5 / number6   
 
-potegowanie = number5 ** number6
+#print(result)
 
-print(potegowanie)
-
-
-
-jakasliczba = 0
-
-if jakasliczba >= 0:
-print("Jestem")
-
-if jakasliczba = 5:
-print("Jestem")
-
-# wykonałem warunek który nie spełniał wymogów
-
-jakasliczba = 0
-
-if jakasliczba = 5:
-print("Liczba jest równa zeru")
-
-else:
-print("Liczba jest równa zeru")
+# ZeroDivisionError: division by zero
 
 
 
 
+number7 = 2
+
+number8 = 5
+
+exponentiation = number7 ** number8
+
+print(exponentiation)
 
 
 
+somenumber = 0
+
+if somenumber >= 0:    
+    print("Jestem")
+
+if somenumber == 5:    
+    print("Jestem")
 
 
+somenumber = 0 
 
+if somenumber == 5: 
+    print("Liczba jest równa zeru")
 
-
-
-
-
-
-
-
+else :   
+    print("Liczba jest równa zeru")
