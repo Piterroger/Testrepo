@@ -70,3 +70,4 @@ if somenumber == 5:
 
 else :   
     print("Liczba jest równa zeru")
+=======
